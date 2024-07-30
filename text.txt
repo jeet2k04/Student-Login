@@ -1,0 +1,7 @@
+python to mysql db we used 5 module
+	pymysql Module / Driver
+	step1 : import module
+	step2 : create connection between python(clint) to server
+	step3 : create object of cursor () using connect() object
+	step4 : using cursor object execute all mysql query
+	step5 : destroy all objects / close connection

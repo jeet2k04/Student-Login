@@ -1,0 +1,5 @@
+ mysql.exe -u root --password
+use pydb;
+show tables;
+desc student;
+select * from student;
